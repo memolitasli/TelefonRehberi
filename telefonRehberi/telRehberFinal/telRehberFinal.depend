@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603995172 source:c:\users\mehme\onedrive\masaüstü\telefonrehberi\telrehberfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
